@@ -9,3 +9,8 @@
     font-size: 20px;
     margin-top: 10px;
 }
+
+.red-background {
+  background-color: red;
+  height: 200px;
+}
